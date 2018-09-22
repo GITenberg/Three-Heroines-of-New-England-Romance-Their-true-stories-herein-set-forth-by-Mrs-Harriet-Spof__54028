@@ -1,0 +1,60 @@
+_repo: Three-Heroines-of-New-England-Romance-Their-true-stories-herein-set-forth-by-Mrs-Harriet-Spof__54028
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Garrett, Edmund H. (Edmund Henry)
+    aliases:
+    - Garrett, Edmund Henry
+    - Garrett, E. H. (Edmund Henry)
+    birthdate: 1853
+    deathdate: 1929
+    gutenberg_agent_id: '32199'
+    url: http://www.gutenberg.org/2009/agents/32199
+    wikipedia: http://en.wikipedia.org/wiki/Edmund_H._Garrett
+creator:
+  authors:
+  - agent_name: Spofford, Harriet Elizabeth Prescott
+    aliases:
+    - Prescott, Harriet Elizabeth
+    - Spofford, Harriet Prescott
+    birthdate: 1835
+    deathdate: 1921
+    gutenberg_agent_id: '6312'
+    url: http://www.gutenberg.org/2009/agents/6312
+    wikipedia: http://en.wikipedia.org/wiki/Harriet_Elizabeth_Prescott_Spofford
+  - agent_name: Guiney, Louise Imogen
+    aliases:
+    - Guiney, L.I.
+    - Guiney, L. I.
+    birthdate: 1861
+    deathdate: 1920
+    gutenberg_agent_id: '39368'
+    url: http://www.gutenberg.org/2009/agents/39368
+    wikipedia: http://en.wikipedia.org/wiki/Louise_Imogen_Guiney
+  - agent_name: Brown, Alice
+    birthdate: 1857
+    deathdate: 1948
+    gutenberg_agent_id: '1688'
+    url: http://www.gutenberg.org/2009/agents/1688
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Brown_%28writer%29
+description: ''
+gutenberg_issued: '2017-01-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54028'
+  lccn: 08030856
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Alden, Priscilla'
+- !lcsh 'Wentworth, Martha Hilton'
+- !lcsh 'Surriage, Agnes, 1726-1783'
+- !lcc 'F001'
+- GITenberg
+tableOfContents: Priscilla, by Harriet Prescott Spofford -- Agnes Surriage, by Alice
+  Brown -- Martha Hilton, by Louise Imogen Guiney -- Notes, by Edmund H. Garrett.
+title: "Three Heroines of New England Romance\r\nTheir true stories herein set forth\
+  \ by Mrs Harriet Spoffard, Miss Louise Imogen Guiney, and Miss Alice Brown"
+url: http://www.gutenberg.org/ebooks/54028
